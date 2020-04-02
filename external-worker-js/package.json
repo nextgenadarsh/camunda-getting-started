@@ -1,0 +1,15 @@
+{
+  "name": "external-worker-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "decide-payment-method.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "camunda-external-task-client-js": "^1.3.0"
+  }
+}
